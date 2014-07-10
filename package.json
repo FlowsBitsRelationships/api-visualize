@@ -7,15 +7,15 @@
     "api-visualize": "api-visualize.js"
   },
   "scripts": {
-     "start": "node ./bin/api-visualize",
+     "start": "node ./bin/api-visualize"
   },
   "repository": {
     "type": "git",
     "url": "git@github.com:FlowsBitsRelationships/api-visualize.git"
   },
    "dependencies": {
-    "express": "4.5.1"
-    }
+    "express": "^4.5.1"
+    },
   "keywords": [
     "Visualization",
     "three.js",
