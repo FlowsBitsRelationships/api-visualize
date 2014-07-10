@@ -1,0 +1,27 @@
+{
+  "name": "api-visualize",
+  "version": "0.0.1",
+  "description": "API for sg2014-visualize",
+  "main": "bin/api-visualize.js",
+  "bin": {
+    "api-visualize": "api-visualize.js"
+  },
+  "scripts": {
+     "start": "node ./bin/api-visualize",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:skewart/osmthree.git"
+  },
+  "keywords": [
+    "Visualization",
+    "three.js",
+    "WebGL"
+  ],
+  "author": "John Victor-Faichney",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/skewart/osmthree/issues"
+  },
+  "homepage": "https://github.com/skewart/osmthree"
+}
