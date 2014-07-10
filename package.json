@@ -11,8 +11,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:skewart/osmthree.git"
+    "url": "git@github.com:FlowsBitsRelationships/api-visualize.git"
   },
+   "dependencies": {
+    "express": "4.5.1"
+    }
   "keywords": [
     "Visualization",
     "three.js",
@@ -21,7 +24,7 @@
   "author": "John Victor-Faichney",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/skewart/osmthree/issues"
+    "url": "https://github.com/FlowsBitsRelationships/api-visualize/issues"
   },
-  "homepage": "https://github.com/skewart/osmthree"
+  "homepage": "https://github.com/FlowsBitsRelationships/api-visualize"
 }
